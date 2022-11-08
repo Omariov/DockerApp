@@ -1,0 +1,5 @@
+
+
+docker exec -it mysql_c bash
+
+mysql -uroot -p 
